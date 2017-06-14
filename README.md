@@ -1,6 +1,8 @@
 # Grayscale-Generator
 Tailored Grayscale Image Generator
+
 INSTALLATION INSTCRUCTIONS:
+
 1) Download Grayscale-Generator
 
 2)Extract files
