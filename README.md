@@ -1,7 +1,7 @@
 # Grayscale-Generator
 Tailored Grayscale Image Generator
 
-INSTALLATION INSTCRUCTIONS:
+INSTALLATION INSTRUCTIONS:
 
 1) Download "Garage Science.zip"
 
