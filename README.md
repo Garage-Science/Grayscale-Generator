@@ -20,3 +20,7 @@ This application was developed with the Java Development Kit (JDK) 1.8 and teste
 It is reccommended that the latest Java JRE be downloaded to ensure smooth operation of the program.
 
 Java JRE 1.8 can be downloaded here: http://www.oracle.com/technetwork/java/javase/downloads/jre8-downloads-2133155.html
+
+Error Handling capabilities added. If bugs encountered please email the log.txt file with a screenshot of the program inputs to: 
+the.scientist.in.the.garage@gmail.com 
+with a description of the bug
